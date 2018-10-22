@@ -20,3 +20,10 @@ Generation and Export Availabilty:
 - [ ] 2D Complex Export
 - [ ] 3D Complex Generation
 - [ ] 3D Complex Export
+
+In-Program Representations:
+- [ ] 2D Simple Presentation
+- [ ] 2D Complex Presentation
+- [ ] 2D Animated Presentation
+
+

@@ -10,13 +10,13 @@ The original inspiration for World Gen was a similar system utilized by Bay12's 
 
 ## What is the current state of World Gen development?
 Generation and Export Availabilty:
-    - [ ] 2D Simple Generation
-        - [ ] Land Only
-        - [ ] Water and Land
-    - [ ] 2D Simple Export
-    - [ ] 3D Simple Generation
-    - [ ] 3D Simple Export
-    - [ ] 2D Complex Generation
-    - [ ] 2D Complex Export
-    - [ ] 3D Complex Generation
-    - [ ] 3D Complex Export
+- [ ] 2D Simple Generation
+    - [ ] Land Only
+    - [ ] Water and Land
+- [ ] 2D Simple Export
+- [ ] 3D Simple Generation
+- [ ] 3D Simple Export
+- [ ] 2D Complex Generation
+- [ ] 2D Complex Export
+- [ ] 3D Complex Generation
+- [ ] 3D Complex Export

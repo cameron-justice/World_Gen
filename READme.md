@@ -1,5 +1,5 @@
-#World Gen
-#A Designer, Simulator, and Destroyer of Worlds.
+# World Gen
+# A Designer, Simulator, and Destroyer of Worlds.
 
 ## What is World Gen?
 I hate designing worlds from scratch. Whether these worlds are for tabletop-RPGs, video games, or fantasy novels, I hate starting from scratch. I find it much easier to be given a world, and flesh it out from there.

@@ -12,6 +12,7 @@ CFLAGS := -g  -Wall
 LIB := -lpthread
 INC := -I include
 
+# TODO: Change testing environment
 LIBGTEST := /usr/lib/libgtest_main.a /usr/lib/libgtest.a
 GTEST := tests/googletest/include
 TESTS := tests/src

@@ -11,6 +11,8 @@ double squareRoot(const double a) {
     }
 }
 
+// TODO: 3D and 2D Squared Distance Function
+
 int main(void){
     
     TwoDimensionalGenerator mapGen;
